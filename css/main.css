@@ -154,7 +154,7 @@ p.lead {
   font-family: "montserrat-regular", sans-serif;
   font-size: 2rem;
   line-height: 1.8;
-  color: #4f4f4f;
+  color: #f3f3f3;
   margin-bottom: 3.6rem;
 }
 @media only screen and (max-width: 768px) {
@@ -222,7 +222,7 @@ blockquote cite:before {
 
 blockquote cite a,
 blockquote cite a:visited {
-  color: #4f4f4f;
+  color: #ede8e8;
   border: none;
 }
 
@@ -231,7 +231,7 @@ abbr {
   font-variant: small-caps;
   text-transform: lowercase;
   letter-spacing: .05rem;
-  color: #4f4f4f;
+  color: #e2dada;
 }
 
 var, kbd, samp, code, pre {
@@ -556,7 +556,7 @@ select {
   border: 0;
   outline: none;
   vertical-align: middle;
-  color: #444444;
+  color: #d0cfcf;
   font-family: "montserrat-regular", sans-serif;
   font-size: 1.4rem;
   line-height: 3rem;
@@ -1145,8 +1145,8 @@ input::-moz-focus-inner {
 }
 .section-intro .lead {
   font-family: "montserrat-regular", sans-serif;
-  font-size: 1.8;
-  line-height: 1.833;
+  font-size: 15 ;
+  line-height: 1.8;
 }
 .section-intro.with-bottom-sep {
   padding-bottom: 4.2rem;
@@ -1950,7 +1950,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 #services .services-list .h05 {
   font-size: 1.7rem;
   line-height: 1.765;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 3rem;
 }
 
@@ -3397,4 +3397,9 @@ form.sign-in-form {
     bottom: 28%;
     left: 50%;
   }
+}
+
+.bot-1:{
+
+  background-color: #07617d;
 }
