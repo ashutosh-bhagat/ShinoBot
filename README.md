@@ -22,3 +22,5 @@ If you encounter any issues or have questions about the project, don't hesitate 
 ---
 
 Get ready to embark on an epic trading adventure with your favorite anime character by your side! Let's dive in and make some profitable trades together! 🚀📈
+
+Author -- Ashutosh Bhagat
